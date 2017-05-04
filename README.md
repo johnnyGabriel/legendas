@@ -2,7 +2,7 @@
 
 Webpack base project with:
 
-- Uglify
 - Babel ES6
 - ESLint
+- UglifyJS
 - Webpack Server
